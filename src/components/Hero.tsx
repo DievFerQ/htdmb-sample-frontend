@@ -448,8 +448,6 @@
 
 
 import bullandman from "../assets/bullandman.png";
-import bullandman1 from "../assets/bullandperson1.png";
-import { Button } from "./ui/button";
 import { useTranslation } from "react-i18next";
 
 const Hero = () => {

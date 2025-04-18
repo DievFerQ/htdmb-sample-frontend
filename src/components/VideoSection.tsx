@@ -2,9 +2,8 @@
 
 
 import React, { useState, useEffect } from 'react';
-import mockup from '../assets/mockup.png'; // Asegúrate de actualizar la ruta de la imagen mockup
 import movie from '../assets/moviee.mov';
-import { AnimatePresence, motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 import videoImage from '../assets/videoImage.jpeg'
 
 const PopupMediaComponent: React.FC = () => {
